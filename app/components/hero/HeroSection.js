@@ -6,7 +6,7 @@ const HeroSection = () => {
                 {`Too Many Dashboards? Too Little Clarity?`}
             </h1>
             <h1 className="mt-2 text-8xl md:text-5xl font-bold">
-                {`Your Startup's Metrics—In Your Pocket 📱`}
+                {`Your Startup's Key Metrics—In Your Pocket 📱`}
             </h1>
             <p className="mt-8 max-w-2xl text-lg">
                 Connect 10+ data sources, manage multiple SaaS projects, make data-driven decisions and get notified when things change.
@@ -16,7 +16,7 @@ const HeroSection = () => {
             <h2 className="text-2xl font-semibold">
             Struggling to keep up with your SaaS analytics?
             </h2>
-            <p className="mt-6 opacity-75 text-lg font-semibold">Sign Up for Early Access →</p>
+            <p className="mt-6 opacity-75 text-lg font-semibold">Sign Up for Early Access & Discount →</p>
         </div>
     </div>
     );
