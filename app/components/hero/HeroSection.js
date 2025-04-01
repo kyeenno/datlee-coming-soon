@@ -3,7 +3,10 @@ const HeroSection = () => {
     <div className="h-screen flex flex-col justify-center items-center bg-[#eeffff]">
         <div className="h-1/2 w-screen bg-[#063838] text-white flex flex-col items-center justify-center px-6 text-center">
             <h1 className="text-8xl md:text-5xl font-bold">
-                {`$Too Many Dashboards? Too Little Clarity? <br></br>You Startup's Key Metrics—In Your Pocket📱`}
+                {`Too Many Dashboards? Too Little Clarity?`}
+            </h1>
+            <h1 className="mt-2 text-8xl md:text-5xl font-bold">
+                {`Your Startup's Metrics—In Your Pocket 📱`}
             </h1>
             <p className="mt-8 max-w-2xl text-lg">
                 Connect 10+ data sources, manage multiple SaaS projects, make data-driven decisions and get notified when things change.
