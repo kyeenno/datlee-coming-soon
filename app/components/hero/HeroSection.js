@@ -1,3 +1,5 @@
+import EmailCollect from "./EmailCollect";
+
 const HeroSection = () => {
     return (
     <div className="h-screen flex flex-col justify-center items-center bg-[#eeffff]">
@@ -17,6 +19,7 @@ const HeroSection = () => {
             Struggling to keep up with your SaaS analytics?
             </h2>
             <p className="mt-6 opacity-75 text-lg font-semibold">Sign Up for Early Access & Discount →</p>
+            <EmailCollect />
         </div>
     </div>
     );
